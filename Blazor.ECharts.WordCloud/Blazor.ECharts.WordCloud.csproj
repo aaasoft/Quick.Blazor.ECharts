@@ -18,14 +18,14 @@
 		<RepositoryType>github</RepositoryType>
 		<projectUrl>https://github.com/lishewen/Blazor.ECharts</projectUrl>
 		<PackageTags>Blazor,.net core,ECharts,WordCloud</PackageTags>
-		<PackageReadmeFile>readme.md</PackageReadmeFile>
+		<PackageReadmeFile>README.md</PackageReadmeFile>
 		<PackageLicenseFile>LICENSE</PackageLicenseFile>
 		<PackageIcon>favicon.png</PackageIcon>
 	</PropertyGroup>
 
 	<ItemGroup>
 		<SupportedPlatform Include="browser" />
-		<None Include=".\readme.md" Pack="true" PackagePath="\" />
+		<None Include=".\README.md" Pack="true" PackagePath="\" />
 		<None Include="..\LICENSE" Pack="true" PackagePath="\" />
 		<None Include="..\favicon.png" Pack="true" PackagePath="\" />
 	</ItemGroup>
