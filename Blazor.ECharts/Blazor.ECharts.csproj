@@ -8,15 +8,15 @@
 		<IsPackable>true</IsPackable>
 		<Description>
 			Blazor版本的ECharts图表组件
-			开源地址：https://github.com/lishewen/Blazor.ECharts
+			开源地址：https://github.com/aaasoft/Quick.Blazor.ECharts
 			使用方式见Demo项目
 		</Description>
 		<AssemblyName>Quick.Blazor.ECharts</AssemblyName>
 		<RootNamespace>Blazor.ECharts</RootNamespace>
-		<PackageProjectUrl>https://github.com/lishewen/Blazor.ECharts</PackageProjectUrl>
-		<RepositoryUrl>https://github.com/lishewen/Blazor.ECharts</RepositoryUrl>
+		<PackageProjectUrl>https://github.com/aaasoft/Quick.Blazor.ECharts</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/aaasoft/Quick.Blazor.ECharts</RepositoryUrl>
 		<RepositoryType>github</RepositoryType>
-		<projectUrl>https://github.com/lishewen/Blazor.ECharts</projectUrl>
+		<projectUrl>https://github.com/aaasoft/Quick.Blazor.ECharts</projectUrl>
 		<PackageTags>Blazor,.net core,ECharts</PackageTags>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
 		<PackageLicenseFile>LICENSE</PackageLicenseFile>
